@@ -8,7 +8,7 @@ use HTTP::Lite;
 use JSON;
 
 use version;
-our $VERSION = qv( 1.0 );
+our $VERSION = qv( 1.0.1 );
 
 use constant BASE_URI => 'http://discident.com/v1';
 

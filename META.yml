@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Net-Discident
-version:            v1
+version:            v1.0.1
 abstract:           query discident.com for DVD details
 author:
     - Mark Norman Francis <norm@cackhanded.net>

@@ -25,7 +25,7 @@ is_deeply(
                 tag       => '1A',
             },
         },
-        title => 'Buck Rogers S1 D1'
+        title => 'Buck Rogers - Season 1 - Disc 1'
     },
 );
 
